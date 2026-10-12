@@ -60,4 +60,4 @@ An end-to-end data analytics project built during the **Psyliq Investigative Dat
 ## Author
 
 **Santhiya V** | Data Analytics | Power BI · SQL · Python · Excel
-[LinkedIn](www.linkedin.com/in/santhiya-v-5243bb417)
+[LinkedIn](https://www.linkedin.com/in/santhiya-v-5243bb417)
