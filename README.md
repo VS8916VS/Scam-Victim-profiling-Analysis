@@ -12,10 +12,10 @@ An end-to-end data analytics project built during the **Psyliq Investigative Dat
 ![Overview](01-overview.png)
 
 **Victim Profiling**
-![Victim Profiling](images/02-victim-profiling.png)
+![Victim Profiling](02-victim-profiling.png)
 
 **Government Response**
-![Government Response](images/03-government-response.png)
+![Government Response](03-government-response.png)
 
 ## Data Sources
 
