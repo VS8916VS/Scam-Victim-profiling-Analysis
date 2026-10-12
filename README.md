@@ -9,7 +9,7 @@ An end-to-end data analytics project built during the **Psyliq Investigative Dat
 ## Dashboard Preview
 
 **Overview**
-![Overview](images/01-overview.png)
+![Overview](overview.png)
 
 **Victim Profiling**
 ![Victim Profiling](images/02-victim-profiling.png)
